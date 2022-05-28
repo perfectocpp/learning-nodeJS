@@ -1,0 +1,19 @@
+{
+  "name": "5_request_response",
+  "version": "1.0.0",
+  "description": "learing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Jasurbek",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}

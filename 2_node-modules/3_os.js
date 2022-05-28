@@ -1,0 +1,23 @@
+const os = require('os')
+
+// platform
+console.log(os.platform())
+
+// arch
+console.log(os.arch())
+
+// cpus
+console.log(os.cpus())
+
+// free memory
+console.log(os.freemem())
+
+// total memory
+console.log(os.totalmem())
+
+// uptime
+console.log(os.uptime())
+
+
+
+

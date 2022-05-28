@@ -1,0 +1,17 @@
+{
+  "name": "7_content_type",
+  "version": "1.0.0",
+  "description": "content-type",
+  "main": "index.js",
+  "scripts": {
+    "test": "node nodejs"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Jasurbek",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
